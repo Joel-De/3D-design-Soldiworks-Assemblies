@@ -1,5 +1,5 @@
-# Extra-cool-things
-Soldiworks Assemblies &amp; Other fun stuff
+
+Soldiworks Assemblies & Other fun stuff
 
 Appart from coding I do a TON of 3D printing with my own custom made machine, below are some of my coolest projects:
 
