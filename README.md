@@ -19,6 +19,7 @@ I've been working on this one since grade 9, I had really bad headphones so I th
 Falcon Heavy Model:
 
 Im a pretty bug space fan so a couple years ago I designed a scale model of the Falcon Heavy in solidworks, and ran some fluid simulations on it just to see what kind aerodynamic features it has, heres a pic of the model
+![falcon](https://user-images.githubusercontent.com/71618484/93808388-e71c6080-fc19-11ea-9d0a-0994ec54bf0d.gif)
 
 ![Rocket 1](https://user-images.githubusercontent.com/71618484/93734867-ff07cc00-fba8-11ea-9d81-20e3840b0cdb.PNG)
 ![Rocket 2](https://user-images.githubusercontent.com/71618484/93734893-1777e680-fba9-11ea-9c2a-2f1447a2fb6e.PNG)
